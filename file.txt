@@ -2,4 +2,4 @@ aaaasdsadpplesss
 oranges
 bbbbbanannas
 
-var = qa.tfvar
+var = ec2_infra.tfvar
