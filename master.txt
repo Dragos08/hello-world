@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 apples
 oranges
 peaches
+=======
+applessss
+oranges
+strawberries
+>>>>>>> master
