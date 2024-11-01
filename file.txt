@@ -2,3 +2,4 @@ aaaasdsadpplesss
 oranges
 bbbbbanannas
 
+var = qa.tfvar
